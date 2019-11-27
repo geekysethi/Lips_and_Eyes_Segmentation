@@ -30,17 +30,17 @@ The hyperparameters which I have used in this assignment are
 
 
 ### Training Error Plot
-![errorplot](report_images\training_loss.png)
+![errorplot](report_images/training_loss.png)
 
 
 ### Validation Error Plot
 
-![validationplot](report_images\validation_loss.png)
+![validationplot](report_images/validation_loss.png)
 
 ### Training Mean IOU Plot
 
-![meaniou](report_images\train_iou.png)
+![meaniou](report_images/train_iou.png)
 
 ## Visualizations
-![results](report_images\results.png)
+![results](report_images/results.png)
 
